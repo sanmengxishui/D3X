@@ -1,0 +1,3 @@
+D:\D3X\D3X_ADLink(20180118)\JPTCG\JPTCG\bin\Debug\JPTCG.exe.config
+D:\D3X\D3X_ADLink(20180118)\JPTCG\JPTCG\obj\Debug\Interop.SpecComLib.dll
+D:\D3X\D3X_ADLink(20180118)\JPTCG\JPTCG\obj\Debug\JPTCG.csproj.ResolveComReference.cache
